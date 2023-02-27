@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @23Rachel
-- 👀 I’m interested in learning how to code an inventory system.
+- 👀 I’m interested in learning how to code and develop softwares
 - 🌱 I’m currently learning .how to code html and css..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .rmbula490gmail.com..
